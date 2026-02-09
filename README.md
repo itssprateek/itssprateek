@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Prateek Kumar Verma
-- 👀I am a results-driven Data & Automation Developer with 2.5 years of experience in designing and implementing data pipelines, business analytics solutions, and process automation. Skilled in Python, SQL, Power BI, and automation tools such as Power Automate, UiPath, and Automation Anywhere A360.
-Experienced in building end-to-end ETL workflows, KPI dashboards, and intelligent automation solutions for business decision-making. Strong background in SAP integration, data validation, and process optimization, with growing expertise in applying AI and machine learning to operational and analytical use cases. Passionate about digital transformation and building scalable, data-driven solutions.
+- 👀Results-driven Data & Automation Developer with 2.5 years of experience building end-to-end data pipelines, KPI dashboards, and intelligent automation systems. Experienced in Python, SQL, Power BI, and SAP-integrated workflows, with hands-on expertise in ETL development, process optimization, and large-scale invoice automation. Recently expanded into AI-driven solutions, including LLM API integrations, AI-assisted incident analysis, and intelligent chatbot systems to reduce manual effort and improve decision-making. Passionate about scalable, data-driven automation and digital transformation initiatives.
 - 🌱 I’m currently learning Big Data and AI
 - 💞️ I’m Seeking Working Student Role in AI / Data / Automation
 - 📫 How to reach me -Email : prateekv702@gmail.com Phone - +49 1637220497
