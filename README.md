@@ -1,106 +1,73 @@
-<h1 align="center">Hi 👋, I'm Prateek Kumar Verma</h1>
-<h3 align="center">AI & Automation Engineer | GenAI + Data Systems | Germany 🇩🇪</h3>
+# Hi, I'm Prateek Kumar Verma
 
-<p align="center">
-  <a href="mailto:prateekv702@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-</p>
+**MSc Student in Big Data & AI** at SRH Berlin University of Applied Sciences  
+**2.5 years of professional experience** in data operations & process automation at Bunge (India/Europe)  
+Based in Berlin · Open to Working Student & Junior Data roles
+
+[![Email](https://img.shields.io/badge/prateekv702@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prateekv702@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
 
 ---
 
-## ⚡ About Me
+## What I bring
 
-- 🎓 M.Sc. Computer Science – Big Data & AI (Germany)
-- 💼 2.5+ years in Automation & Data Engineering
-- 🤖 Building AI-powered automation & decision-support systems
-- 📊 Focused on ETL pipelines, LLM integration & business analytics
-- 🇩🇪 Actively seeking Working Student / AI & Data roles in Germany
+I sit at the intersection of **data engineering** and **applied AI**. At Bunge, I worked across European business teams handling vendor data, invoice pipelines, and operational reporting — the kind of messy, real-world data problems that don't come with clean CSVs. Now I'm deepening that foundation with an MSc focused on machine learning, NLP, and scalable data systems.
 
----
-
-## 🚀 Key Impact & Initiatives
-
-### 🤖 AI-Powered Incident & Automation Intelligence
-
-- Built **LLM-powered log classification & root cause summarization**
-- Designed structured automation failure analysis workflows
-- Reduced manual investigation effort using AI-assisted insights
+**Core stack:** Python · SQL · Pandas · NumPy · Power BI · ETL pipelines  
+**Currently working with:** LangChain · RAG architectures · Scikit-learn · AWS (Athena, SageMaker) · Snowflake  
+**Also comfortable with:** Git · Linux · REST APIs · PostgreSQL · SQLite · SAP (exposure)
 
 ---
 
-### 💬 AI Customer Support Chatbot (RAG-Based)
+## Projects
 
-- Built end-to-end **LLM + LangChain chatbot**
-- Implemented Retrieval-Augmented Generation (RAG)
-- Integrated multilingual query handling
-- Designed structured fallback & validation logic
+### [Business KPI Analytics & ETL Dashboard](link-to-repo)
+Built Python + SQL ETL pipelines feeding into Power BI dashboards for operational KPI tracking. Designed reusable staging tables and automated monthly reporting workflows that replaced manual Excel processes.
 
-Tech Used:
-`Python` `LangChain` `LLM APIs` `Vector Database`
+`Python` `SQL` `Power BI` `ETL`
 
----
+### [E-Commerce Customer Support Chatbot](link-to-repo)
+End-to-end RAG-based chatbot using LangChain and vector search. Handles multilingual customer queries with structured fallback logic and context-aware retrieval. Trained intent classification using RNN/BiLSTM architectures.
 
-### 📊 Business KPI Analytics & ETL System
+`Python` `LangChain` `RAG` `NLP` `Vector DB`
 
-- Developed scalable **Python + SQL ETL pipelines**
-- Built reusable KPI tables & Power BI dashboards
-- Automated monthly reporting workflows
-- Improved operational visibility & decision support
+### [Berlin Electricity Demand & Temperature Risk Analysis](link-to-repo)
+ML-based study correlating DWD weather data with Berlin's electricity demand patterns. Built regression models for demand forecasting and identified temperature-driven risk thresholds.
 
----
+`Python` `Scikit-learn` `Pandas` `Matplotlib` `DWD Open Data`
 
-### 🧾 Enterprise Invoice Automation (SAP Integrated)
+### [DBSCAN Clustering – Research Paper](link-to-repo)
+Academic research on density-based spatial clustering. Implemented DBSCAN from scratch, benchmarked against K-Means on real-world datasets, and documented findings in a formal research paper.
 
-- Automated processing of **10,000+ invoices/month**
-- Built data extraction & validation pipelines
-- Reduced manual verification workload
-- Delivered scalable SAP-integrated automation
+`Python` `NumPy` `Matplotlib` `Research`
 
----
+### [Intelligent Operations & Incident Assistant (Concept)](link-to-repo)
+Designed an LLM-powered system for classifying automation failures, summarizing root causes from logs, and routing incidents — aimed at reducing manual investigation in enterprise operations environments.
 
-## 🛠 Technology Stack
-
-### Programming & Data
-<p>
-  <img src="https://skillicons.dev/icons?i=python,sql,postgres,sqlite,pandas,numpy" />
-</p>
-
-### AI & Automation
-<p>
-  <img src="https://skillicons.dev/icons?i=python,git" />
-</p>
-
-LLM Integration • Prompt Engineering • RAG Systems • Process Automation
-
-### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux" />
-</p>
-
-Power BI • REST APIs • SAP Exposure
+`Python` `LLM APIs` `Prompt Engineering` `System Design`
 
 ---
 
-## 🏆 Achievements
+## Professional Background
 
-- 🥇 BBS Star Award – Customer Centricity (2025)
-- 🌟 Employee of the Month – Automation Excellence
-- 👨‍🏫 Mentored interns & supported citizen developers
+**Bunge India** — Process & Operations (2+ years)  
+- Managed vendor and business data workflows across European teams  
+- Built data extraction and validation pipelines for invoice processing (~10,000 invoices/month)  
+- Developed operational dashboards and automated reporting using Python, SQL, and Power BI  
+- Recognized with BBS Star Award for Customer Centricity and Employee of the Month for automation work  
+
+**SRH Berlin University of Applied Sciences** — MSc Big Data & AI (ongoing, expected ~2027)  
+- Focus areas: Machine Learning, NLP, Data Engineering, Cloud Analytics  
+- Coursework in statistical modeling, deep learning, and distributed data systems
 
 ---
 
-## 🎯 What I’m Building Next
+## What I'm looking for
 
-- Advanced LLM-based automation intelligence systems
-- AI-driven incident classification & anomaly detection
-- Business-focused GenAI solutions for enterprise environments
+Working Student or Junior roles in **Data Engineering, Data Science, or AI/ML** in the Berlin/Germany tech ecosystem. I'm interested in teams building data pipelines, applied ML systems, or LLM-powered products — especially where I can bridge the gap between messy operational data and actionable intelligence.
 
 ---
 
 <p align="center">
-  🚀 Turning Data into Decisions | Automation into Intelligence
+  <img src="https://skillicons.dev/icons?i=python,postgres,git,github,linux" />
 </p>
